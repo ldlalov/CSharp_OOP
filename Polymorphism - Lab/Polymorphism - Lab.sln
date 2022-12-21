@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "MathOperations\Operations.csproj", "{300FE379-A2D7-457E-B063-9D8704AF560D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{06C180A3-FAE7-44C9-8B9A-791D93BE9D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{621BA594-EE0A-443F-8723-6A252057DA4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{300FE379-A2D7-457E-B063-9D8704AF560D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{300FE379-A2D7-457E-B063-9D8704AF560D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{300FE379-A2D7-457E-B063-9D8704AF560D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{300FE379-A2D7-457E-B063-9D8704AF560D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C180A3-FAE7-44C9-8B9A-791D93BE9D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C180A3-FAE7-44C9-8B9A-791D93BE9D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C180A3-FAE7-44C9-8B9A-791D93BE9D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C180A3-FAE7-44C9-8B9A-791D93BE9D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{621BA594-EE0A-443F-8723-6A252057DA4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{621BA594-EE0A-443F-8723-6A252057DA4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{621BA594-EE0A-443F-8723-6A252057DA4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{621BA594-EE0A-443F-8723-6A252057DA4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B726219F-79EB-4172-B40B-C4E396C1C0BA}
+	EndGlobalSection
+EndGlobal

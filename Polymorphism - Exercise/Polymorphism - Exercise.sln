@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vehicles", "Vehicles\Vehicles.csproj", "{62BFB3EE-55C7-4E8B-9171-771D6AD7B939}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Raiding", "Raiding\Raiding.csproj", "{0A45033B-0EF3-4783-8194-538F3FE0CBD1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WildFarm", "WildFarm\WildFarm.csproj", "{56728DFB-0AFE-4B98-AD08-45A0F82C2EC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62BFB3EE-55C7-4E8B-9171-771D6AD7B939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BFB3EE-55C7-4E8B-9171-771D6AD7B939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BFB3EE-55C7-4E8B-9171-771D6AD7B939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BFB3EE-55C7-4E8B-9171-771D6AD7B939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A45033B-0EF3-4783-8194-538F3FE0CBD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A45033B-0EF3-4783-8194-538F3FE0CBD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A45033B-0EF3-4783-8194-538F3FE0CBD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A45033B-0EF3-4783-8194-538F3FE0CBD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56728DFB-0AFE-4B98-AD08-45A0F82C2EC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56728DFB-0AFE-4B98-AD08-45A0F82C2EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56728DFB-0AFE-4B98-AD08-45A0F82C2EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56728DFB-0AFE-4B98-AD08-45A0F82C2EC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FFED218-C4EF-4A46-9754-E9F684254053}
+	EndGlobalSection
+EndGlobal

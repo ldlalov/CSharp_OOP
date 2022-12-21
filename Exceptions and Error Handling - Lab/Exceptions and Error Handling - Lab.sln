@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Square Root", "Square Root\Square Root.csproj", "{BA407F6C-B4BB-4B96-AB20-B9277454E16C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnterNumbers", "EnterNumbers\EnterNumbers.csproj", "{591EB04E-FE33-4895-9336-D2298CEA5782}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA407F6C-B4BB-4B96-AB20-B9277454E16C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA407F6C-B4BB-4B96-AB20-B9277454E16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA407F6C-B4BB-4B96-AB20-B9277454E16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA407F6C-B4BB-4B96-AB20-B9277454E16C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{591EB04E-FE33-4895-9336-D2298CEA5782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591EB04E-FE33-4895-9336-D2298CEA5782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591EB04E-FE33-4895-9336-D2298CEA5782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{591EB04E-FE33-4895-9336-D2298CEA5782}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19C97D10-27FA-445C-81E3-7A0239C3FE99}
+	EndGlobalSection
+EndGlobal

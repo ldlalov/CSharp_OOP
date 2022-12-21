@@ -1,0 +1,23 @@
+﻿using ChristmasPastryShop.Models.Delicacies.Contracts;
+using ChristmasPastryShop.Repositories.Contracts;
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ChristmasPastryShop.Repositories
+{
+    public class DelicacyRepository : IRepository<IDelicacy>
+    {
+        private List<IDelicacy> delicacys;
+        public DelicacyRepository()
+        {
+            delicacys = new List<IDelicacy>();
+        }
+        public IReadOnlyCollection<IDelicacy> Models => delicacys;
+
+        public void AddModel(IDelicacy model)
+        {
+            delicacys.Add(model);
+        }
+    }
+}
